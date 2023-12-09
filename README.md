@@ -5,7 +5,7 @@
 **无论如何也不能失去了开源精神的崇高信仰！**
 ## 统计
 ![Profile Views](https://komarev.com/ghpvc/?username=AEBC08)  
-![AEBC08's GitHub stats](https://github-readme-stats.vercel.app/api?username=AEBC08&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AEBC08)
+![AEBC08's GitHub stats](https://github-readme-stats.vercel.app/api?username=AEBC08&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AEBC08&layout=compact)
 ## 擅长的编程语言
 **1. Python**  
 **2. C#**  
