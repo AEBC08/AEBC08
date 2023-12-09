@@ -4,15 +4,14 @@
 **我是一个热爱开源的开发者，一个普通的不能再普通的学生.**  
 **无论如何也不能失去了开源精神的崇高信仰！**
 ## 音乐
-**
 <details>
-  <summary>全部音乐(内容可能有点多)</summary>
+  <summary><strong>点击展开查看详情</strong></summary>
   <details>
-  <summary>For ya</summary>
+  <summary><strong>点击展开查看详情</strong></summary>
   这里是详细内容。
 </details>
 </details>
-**
+
 **For ya :**  
 
 
