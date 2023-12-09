@@ -15,5 +15,9 @@
   
 (根据擅长程度排序)
 ### 联系我
-**1. [bilibili](https://space.bilibili.com/510197857): AEBC08**  
-**2. [QQ](https://qm.qq.com/q/thCfA0ofVQ): 3551943226**
+**• [bilibili](https://space.bilibili.com/510197857): AEBC08**  
+**• [QQ](https://qm.qq.com/q/thCfA0ofVQ): 3551943226**
+### 友情链接
+**• [长白崎](https://github.com/Changbaiqi)**  
+**• [南竹](https://github.com/b4m600)**  
+**• [云深不知处](https://github.com/luoguixin)**
