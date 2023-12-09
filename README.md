@@ -5,18 +5,17 @@
 **无论如何也不能失去了开源精神的崇高信仰！**
 ## 音乐
 <details>
-  <summary><strong>点击展开查看详情</strong></summary>
+  <summary><strong>全部音乐(因为内容过长才收起)</strong></summary>
   <details>
-  <summary><strong>点击展开查看详情</strong></summary>
-  这里是详细内容。
+  <summary><strong>For ya</strong></summary>
+  
+  
+  https://github.com/AEBC08/AEBC08/assets/125038182/3023aa69-1e4b-4323-8862-67b788dccf18
+  
 </details>
 </details>
 
 **For ya :**  
-
-
-https://github.com/AEBC08/AEBC08/assets/125038182/3023aa69-1e4b-4323-8862-67b788dccf18
-
 **Hero :**  
 
 
