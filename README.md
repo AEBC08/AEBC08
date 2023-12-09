@@ -18,7 +18,7 @@
 **• [bilibili](https://space.bilibili.com/510197857): AEBC08**  
 **• [QQ](https://qm.qq.com/q/thCfA0ofVQ): 3551943226**
 ### 友情链接
-**GitHub的其他开发者:**  
+**一些开发者的GitHub:**  
   
 **• [长白崎](https://github.com/Changbaiqi)**  
 **• [南竹](https://github.com/b4m600)**  
