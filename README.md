@@ -16,4 +16,4 @@
 (根据擅长程度排序)
 ### 联系我
 **1. [bilibili](https://space.bilibili.com/510197857)**  
-**2. [QQ: 3551943226](https://qm.qq.com/q/thCfA0ofVQ)**
+**2. [QQ](https://qm.qq.com/q/thCfA0ofVQ): 3551943226**
