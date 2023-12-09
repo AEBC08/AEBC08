@@ -3,6 +3,7 @@
 **欢迎来到我的GitHub主页！**  
 **我是一个热爱开源的开发者，一个普通的不能再普通的学生.**  
 **无论如何也不能失去了开源精神的崇高信仰！**  
+https://github.com/AEBC08/AEBC08/assets/125038182/d0d79a1f-34d9-4fb4-8368-d7e1af4712b5
 ## 统计
 ![Profile Views](https://komarev.com/ghpvc/?username=AEBC08)  
 ![AEBC08's GitHub stats](https://github-readme-stats.vercel.app/api?username=AEBC08&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AEBC08&layout=compact&theme=radical)
