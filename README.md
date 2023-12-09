@@ -7,29 +7,27 @@
 <details>
   <summary><strong>全部音乐(因为内容过长才收起)</strong></summary>
   <details>
-    <summary><strong>For ya</strong></summary>
-    
-    
-    https://github.com/AEBC08/AEBC08/assets/125038182/3023aa69-1e4b-4323-8862-67b788dccf18
-    
+  <summary><strong>For ya</strong></summary>
+  
+  
+  https://github.com/AEBC08/AEBC08/assets/125038182/3023aa69-1e4b-4323-8862-67b788dccf18
+  
   </details>
   <details>
-  <summary><strong>点击展开查看详情</strong></summary>
-  这里是详细内容。
+  <summary><strong>Hero</strong></summary>
+
+
+  https://github.com/AEBC08/AEBC08/assets/125038182/4e28f29a-c8c8-4ec6-8d84-dd0f5bfcdafb
+  
+  </details>
+  <details>
+  <summary><strong>Slow Down</strong></summary>
+
+
+  https://github.com/AEBC08/AEBC08/assets/125038182/9aa4d501-1d1d-460a-8798-c7daa0fbdcc1
+  
   </details>
 </details>
-
-**For ya :**  
-**Hero :**  
-
-
-https://github.com/AEBC08/AEBC08/assets/125038182/4e28f29a-c8c8-4ec6-8d84-dd0f5bfcdafb
-
-**Slow Down :**
-
-
-https://github.com/AEBC08/AEBC08/assets/125038182/9aa4d501-1d1d-460a-8798-c7daa0fbdcc1
-
 
 ## 统计
 ![Profile Views](https://komarev.com/ghpvc/?username=AEBC08)  
