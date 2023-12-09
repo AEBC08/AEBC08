@@ -7,6 +7,8 @@
 <details>
   <summary><strong>全部音乐(因为内容过长才收起)</strong></summary>
   <details>
+  <summary><strong>音乐</strong></summary>
+  <details>
   <summary><strong>For ya</strong></summary>
   
   
@@ -33,6 +35,11 @@
   
   https://github.com/AEBC08/AEBC08/assets/125038182/424fe506-a155-4ee2-a34a-497a31d56702
   
+  </details>
+  </details>
+  <details>
+  <summary><strong>Phigros音乐</strong></summary>
+  这里是详细内容。
   </details>
 </details>
 
