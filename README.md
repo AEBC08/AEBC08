@@ -5,8 +5,12 @@
 **无论如何也不能失去了开源精神的崇高信仰！**
 ## 音乐
 <details>
-  <summary>点击展开查看详情</summary>
+  <summary>**全部音乐(内容可能有点多)**</summary>
+  <details>
+  <summary>**For ya**</summary>
   这里是详细内容。
+</details>
+
 </details>
 
 **For ya :**  
