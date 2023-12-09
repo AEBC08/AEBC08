@@ -9,6 +9,10 @@
 https://github.com/AEBC08/AEBC08/assets/125038182/3023aa69-1e4b-4323-8862-67b788dccf18
 
 
+
+https://github.com/AEBC08/AEBC08/assets/125038182/4e28f29a-c8c8-4ec6-8d84-dd0f5bfcdafb
+
+
 ## 统计
 ![Profile Views](https://komarev.com/ghpvc/?username=AEBC08)  
 ![AEBC08's GitHub stats](https://github-readme-stats.vercel.app/api?username=AEBC08&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AEBC08&layout=compact&theme=radical)
