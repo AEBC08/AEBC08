@@ -4,8 +4,8 @@
 **我是一个热爱开源的开发者，一个普通的不能再普通的学生.**  
 **无论如何也不能失去了开源精神的崇高信仰！**
 ## 音乐
-**GitHub支持往README.md里放mp4，我突发奇想，将一些歌曲转换成mp4，再上传**
-***警告，这么做可能会导致页面需要加载很久！***
+**GitHub支持往README.md里放mp4，我突发奇想，将一些歌曲转换成mp4，再上传**  
+***警告，这么做可能会导致页面加载时间变长！***
 <details>
   <summary><strong>全部音乐(因为内容过长才收起)</strong></summary>
   <details>
@@ -184,7 +184,7 @@
   </details>
 </details>
 
-歌单by AEBC08
+**歌单by AEBC08**
 ## 统计
 ![Profile Views](https://komarev.com/ghpvc/?username=AEBC08)  
 ![AEBC08's GitHub stats](https://github-readme-stats.vercel.app/api?username=AEBC08&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AEBC08&layout=compact&theme=radical)
