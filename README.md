@@ -38,7 +38,7 @@
   </details>
   </details>
   <details>
-  <summary><strong>Phigros音乐</strong></summary>
+  <summary><strong>Phigros游戏内音乐</strong></summary>
   这里是详细内容。
   </details>
 </details>
