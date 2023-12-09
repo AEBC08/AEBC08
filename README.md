@@ -4,7 +4,7 @@
 **我是一个热爱开源的开发者，一个普通的不能再普通的学生.**  
 **无论如何也不能失去了开源精神的崇高信仰！**  
 ![](https://komarev.com/ghpvc/?username=AEBC08)  
-![AEBC08's github stats](https://github-readme-stats.vercel.app/api?username=AEBC08&show_icons=true&theme=dracula)
+![AEBC08's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ## 擅长的编程语言
 **1. Python**  
 **2. C#**  
