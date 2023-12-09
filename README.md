@@ -184,7 +184,7 @@
   </details>
 </details>
 
-**歌单by AEBC08**
+**歌单by [@AEBC08](https://github.com/AEBC08)**
 ## 统计
 ![Profile Views](https://komarev.com/ghpvc/?username=AEBC08)  
 ![AEBC08's GitHub stats](https://github-readme-stats.vercel.app/api?username=AEBC08&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AEBC08&layout=compact&theme=radical)
