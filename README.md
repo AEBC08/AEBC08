@@ -1,8 +1,12 @@
-# README
+# Readme
 **Hi! Hello!**  
-**I am AEBC08 Welcome to my GitHub homepage!**
-**If you like my projects, why not give it a star?**
+**I am AEBC08 Welcome to my GitHub homepage!**  
+**If you like my projects, why not give it a star?**  
 **If you think my projects are all good, why don't you follow me!**
+
+# About me
+**I am a student from China**
+**Programming is my hobby**
 
 ## Statistics
 ![Profile Views](https://komarev.com/ghpvc/?username=AEBC08)  
@@ -14,3 +18,4 @@
 ### Contact me(Don't come to me if you're okay)
 * **BiliBili:** [**`AEBC08`**](https://space.bilibili.com/510197857)
 * **QQ:** [**`3551943226`**](https://qm.qq.com/q/thCfA0ofVQ)
+* **E-mail:** **`AEBC08@qq.com`**
