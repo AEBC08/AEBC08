@@ -1,6 +1,8 @@
 # README
 **Hi! Hello!**  
 **I am AEBC08 Welcome to my GitHub homepage!**
+**If you like my projects, why not give it a star?**
+**If you think my projects are all good, why don't you follow me!**
 
 ## Statistics
 ![Profile Views](https://komarev.com/ghpvc/?username=AEBC08)  
