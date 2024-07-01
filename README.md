@@ -16,6 +16,6 @@
 2. **`C#`**
 
 ### Contact me(Don't come to me if you're okay)
-* **BiliBili:** [**`AEBC08`**](https://space.bilibili.com/510197857)
+* **BiliBili:** [**`510197857`**](https://space.bilibili.com/510197857)
 * **QQ:** [**`3551943226`**](https://qm.qq.com/q/thCfA0ofVQ)
 * **E-mail:** **`AEBC08@qq.com`**
