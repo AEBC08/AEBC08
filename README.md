@@ -13,5 +13,8 @@
 2. **`C#`**
 3. **`Modern C++`**
 
+## 现在正在开发的项目
+- **[`EuoraCraft-Launcher`](https://github.com/ECLteam/EuoraCraft-Launcher) - 一款强大的 Minecraft Launcher**
+
 ### 联系方式(如果你有事找我)
 * **bilibili:** [**`510197857`**](https://space.bilibili.com/510197857)
