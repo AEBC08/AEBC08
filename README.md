@@ -1,19 +1,17 @@
-# Readme
-**Hi! Hello!**  
-**I am AEBC08 Welcome to my GitHub homepage!**  
-**If you like my projects, why not give it a star?**  
-**If you think my projects are all good, why don't you follow me!**
+# README
+**嘿! 你好!**  
+**我是 [`AEBC08`]()，是一个普通的不能再普通的普通人**  
+**如果你喜欢我的项目的话，不妨给它点上一个 `Star`**  
+**当然，这些项目都是做着玩的**
 
 # About me
-**I am a student from China**  
-**Programming is my hobby**
+**如上所述，我只是一个普通人罢了**  
+**编程目前只是我的爱好，或许以后就是我的专业了，谁知道呢**
 
-## Statistics
-![Profile Views](https://komarev.com/ghpvc/?username=AEBC08)  
-![AEBC08's GitHub stats](https://github-readme-stats.vercel.app/api?username=AEBC08&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AEBC08&layout=compact&theme=radical)
-## Proficient programming languages(Based on the level of mastery)
+## 常用编程语言(按熟练度排行)
 1. **`Python`**
 2. **`C#`**
+3. **`Modern C++`**
 
-### Contact me(Don't come to me if you're okay)
-* **BiliBili:** [**`510197857`**](https://space.bilibili.com/510197857)
+### 联系方式(如果你有事找我)
+* **bilibili:** [**`510197857`**](https://space.bilibili.com/510197857)
